@@ -1,12 +1,7 @@
 a) R = 10
 b) R = 2
 c) R = 3
-d) Não, já que *pti == pti[0].
+d) R = Não, já que *pti == pti[0].
 e) R = 6
 f) R = 17
-g)
-veti[0] = 10
-veti[1] = 7
-veti[2] = 2
-veti[3] = 6
-veti[4] = 3
+g) R = 10, 7, 2, 6, 3.
